@@ -2,12 +2,12 @@ import { MenuItem, FundraiserStatus, Testimonial } from './types';
 
 import heroImg from './assets/images/evies_cafe_hero_1780702659354.png';
 import runClubImg from './assets/images/evies_run_club_1780702676583.png';
-import logoImg from './assets/images/evies_cherub_logo_perfect_1780705187458.png';
+import logoImg from './assets/images/regenerated_image_1780713967168.jpg';
 
 export const IMAGES = {
   hero: heroImg,
   runClub: runClubImg,
-  logo: '/api/logo',
+  logo: logoImg,
   logoPlaceholder: 'https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&q=80&w=200&h=200',
 };
 
