@@ -1,0 +1,6 @@
+{
+  "name": "Evie's Redfern",
+  "description": "A premium, classic website for Evie's Redfern cafe and eatery in Sydney, featuring a wholesome gut-friendly menu, details of Evie's Run Club fundraiser, and an AI dining concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
