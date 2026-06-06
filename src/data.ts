@@ -2,6 +2,7 @@ import { MenuItem, FundraiserStatus, Testimonial } from './types';
 
 import heroImg from './assets/images/evies_cafe_hero_1780702659354.png';
 import runClubImg from './assets/images/evies_run_club_1780702676583.png';
+import logoImg from './assets/images/evies_cherub_logo_perfect_1780705187458.png';
 
 export const IMAGES = {
   hero: heroImg,
